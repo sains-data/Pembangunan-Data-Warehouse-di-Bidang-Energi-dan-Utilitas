@@ -96,4 +96,3 @@ Merekam konsumsi energi dan aktivitas terkait:
 - **Sumber data utama**: Kaggle (statis)
 
 ---
-
